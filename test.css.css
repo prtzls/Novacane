@@ -1,0 +1,19 @@
+
+body {
+    background-color: black;
+}
+
+h1 {
+    color:black;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    color:rgba(248, 248, 255, 0.007);
+    float: left;
+}
+
+img {
+    text-align: center;
+}
